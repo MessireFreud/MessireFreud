@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Check this out [FreudArthur](https://github.com/FreudArthur) 
+
+It's my Github 😄
